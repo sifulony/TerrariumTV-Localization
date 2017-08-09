@@ -137,7 +137,7 @@
     <string name="pref_auto_mark_episode_as_watched">অটো মার্ক পর্বের হিসাবে দেখেছি</string>
     <string name="pref_filter_out_non_english_shows">অ-ইংরেজি টিভি শো ফিল্টার আউট করুন</string>
     <string name="pref_filter_out_dead_sources">মৃত উৎস ফিল্টার আউট করুন</string>
-    <string name="pref_filter_out_dead_sources_desc">It will cause extra sources loading time</string>
+    <string name="pref_filter_out_dead_sources_desc">অতিরিক্ত উত্স লোড হতে সময় বেশী লাগবে</string>    
     <string name="pref_filter_out_cam_version_links">Filter out CAM version links</string>
     <string name="pref_filter_out_cam_version_links_desc">Filter out bad quality links automatically</string>
     <string name="pref_enable_new_episode_notification">Enable new episode notification</string>
